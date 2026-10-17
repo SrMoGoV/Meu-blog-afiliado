@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srmogov.github.io/Meu-blog-afiliado/sitemap.xml
